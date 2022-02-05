@@ -54,7 +54,8 @@ body{
 }
 .form-box{
     width: 70%;
-    padding: 35px 30px;
+    padding: 50px 30px;
+    padding-bottom: 70px;
     background-color: #3DB2FF;
 }
 .form-box h1{
